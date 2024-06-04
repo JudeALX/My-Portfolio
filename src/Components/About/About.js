@@ -8,13 +8,18 @@ const About = ()=>{
         <div className="about-container">
             <div className="about-heading" data-aos="flip-left">
                 <strong> About me</strong>
-                <h3> Designing with Passion for Problem solving </h3>
-                <a href="tel:+2348138390681" className="btn-link">
-                    +2349161052706 <i className="fa-solid fa-phone-flip"></i>
+                <h3> Passionate about using digital solutions to solve business problems </h3>
+                <a href="tel:+2347035087938" className="btn-link">
+                    +2348115397711 <i className="fa-solid fa-phone-flip"></i>
                 </a>
             </div> 
             <div className="about-details" data-aos="flip-right"> 
-            <p>  With a keen eye for aesthetics and user-centric interfaces, I strive to create visually captivating and functional web experiences. Leveraging my skills in HTML, CSS, and JavaScript, I am committed to translating complex challenges into elegant solutions that enhance user engagement and satisfaction.</p>
+            <p>  I’m a dedicated E-commerce professional with a proven track record in pioneering and 
+                optimizing online retail operations. Specializing in strategic planning, inventory management, 
+                and digital marketing, I have consistently propelled revenue growth for diverse businesses e.g. 
+                Transportation, Fashion, financial service, and FMCG. Leveraging technical expertise in platform 
+                integration, analytics, and customer experience, I thrive in enhancing operational efficiency.
+                </p>
             
             </div>
 

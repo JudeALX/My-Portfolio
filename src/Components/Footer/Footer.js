@@ -6,21 +6,21 @@ const Footer = ()=>{
         <footer>
             <span>Copyright &copy;2023</span>
             <div className="social-links">
-                <a href="https://www.facebook.com/profile.php?id=100086715874671">
+                <a href="https://www.facebook.com/EmekaJudeOkonkwo1">
                     <i className="fa-brands fa-facebook"></i>
                      
                 </a>
-                <a href="https://www.instagram.com/martinsejiofo/">
+                <a href="https://www.instagram.com/official_judey/">
                     <i className="fa-brands fa-instagram"></i>
                      
                 </a>
-                <a href="https://www.youtube.com/channel/UCuaob9_bMUfdwot5IerF8KQ">
-                    <i className="fa-brands fa-youtube"></i>
+                <a href="https://www.linkedin.com/in/emeka-jude-okonkwo-certified-google-digital-marketing-e-commerce-professional/">
+                    <i className="fa-brands fa-Linkdin"></i>
                 </a>
 
                 
             </div>
-            <a href="#!" className="footer-logo">mar~tinz*</a>
+            <a href="#!" className="footer-logo">Emeka~Jude~Okonkwo*</a>
         </footer>
     )
 }

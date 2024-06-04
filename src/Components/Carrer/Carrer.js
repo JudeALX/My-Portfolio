@@ -7,36 +7,41 @@ const Carrer = () =>{
 
     const carrers = [
         {
-            title: "Front-end Developer",
-            name: "Software",
-            year: "2020-2022"
+            title: "AI Augmented Professional Development",
+            name: "ALX Career Essentials",
+            year: "2024"
         },
         {
-            title: "Backend Developer",
-            name: "Software",
-            year: "2021-2023"
+            title: "Google Digital & E-commerce Professional Certification",
+            name: "Google/Coursera",
+            year: "2023"
         },
         {
-            title: "Wordpress Developer",
-            name: "Software",
-            year: "2022-2024"
+            title: "Fullstack Software Engineering",
+            name: "ALX Africa",
+            year: "2023"
+        },
+        {
+            title: "Brand Management",
+            name: "Coursera",
+            year: "2023"
         }
     ]
     const educations = [
         {
-            title: "National Open University of Nigeria",
-            name: "Computer Science",
-            year: "2021-2025"
+            title: "University of Nigeria",
+            name: "M.Sc. Banking anf Finance",
+            year: "2023"
         },
         {
-            title: "All-Tech Academy Surulere Lagos Nigeria",
-            name: "Computer Programing",
-            year: "2020-2021"
+            title: "Godfrey Okoye Univeristy",
+            name: "M.Sc. Banking and Finance",
+            year: "2019"
         },
         {
-            title: "alx software engineer ",
-            name: "Computer Programing",
-            year: "2023-2025"
+            title: "Godfrey Okoye University",
+            name: "B.Sc. Banking and Finance",
+            year: "2014"
         }
     ]
     return (
