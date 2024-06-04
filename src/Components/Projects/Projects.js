@@ -4,10 +4,10 @@ import React from 'react';
 
 
 import "./Projects.css";
-import Project1 from "../../assets/images/project1.jpeg";
+import Project1 from "../../assets/images/project1.jpg";
 import Project2 from "../../assets/images/project2.jpg";
-import Project3 from "../../assets/images/project3.jpeg";
-import Project4 from "../../assets/images/project4.jpeg";
+import Project3 from "../../assets/images/project3.jpg";
+import Project4 from "../../assets/images/project4.jpg";
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 

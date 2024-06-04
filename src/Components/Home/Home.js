@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.css";
-import martins from "../../assets/images/martins.svg";
+import emeka from "../../assets/images/emeka.svg";
 
 
 const Home = ()=> {
@@ -29,7 +29,7 @@ const Home = ()=> {
         </div>
         <div className="home-img" data-aos="fade-up">
             <div className="img-box">
-                <img src={martins} alt="martins"/>
+                <img src={emeka} alt="emeka"/>
                 <h2>Emeka Okonkwo <br/> <br/><span> E-commerce Expert | Digital Marketer | FullStack Developer </span></h2>
                 <div className="social">
                     <a href="https://www.facebook.com/EmekaJudeOkonkwo1">
