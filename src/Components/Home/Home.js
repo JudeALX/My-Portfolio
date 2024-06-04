@@ -9,7 +9,7 @@ const Home = ()=> {
         <div className="home-text" data-aos="fade-down">
             <strong>Hello, I'm</strong>
             <h1>Emeka Okonkwo</h1>
-            <p> I am a seasoned software engineer with extensive expertise in e-commerce, digital marketing, and 
+            <p> A seasoned software engineer with extensive expertise in e-commerce, digital marketing, and 
                 finance. With a diverse skill set and a hands-on approach, I have successfully developed and  
                 deployed various e-commerce websites and platforms. My technical proficiency in multiple 
                 programming languages, frameworks, and tools ensures the delivery of scalable, secure, and user-friendly
