@@ -12,7 +12,8 @@ const Home = ()=> {
             <p> I am a seasoned software engineer with extensive expertise in e-commerce, digital marketing, and 
                 finance. With a diverse skill set and a hands-on approach, I have successfully developed and  
                 deployed various e-commerce websites and platforms. My technical proficiency in multiple 
-                programming languages, frameworks, and tools ensures the delivery of scalable, secure, and user-friendly digital solutions.
+                programming languages, frameworks, and tools ensures the delivery of scalable, secure, and user-friendly
+                digital solutions. 
                 As an e-commerce expert, I have led numerous projects that enhance online shopping experiences
                 and optimize business operations. I specialize in strategies that drive traffic, increase conversion
                 rates, and boost customer satisfaction. Additionally, my deep understanding of digital marketing

@@ -15,9 +15,9 @@ const About = ()=>{
             </div> 
             <div className="about-details" data-aos="flip-right"> 
             <p>  I’m a dedicated E-commerce professional with a proven track record in pioneering and 
-                optimizing online retail operations. Specializing in strategic planning, inventory management, 
-                and digital marketing, I have consistently propelled revenue growth for diverse businesses e.g. 
-                Transportation, Fashion, financial service, and FMCG. Leveraging technical expertise in platform 
+                optimizing online retail stores operations. Specializing in strategic planning, inventory management, 
+                and digital marketing. I have consistently propelled revenue growth for diverse businesses e.g. 
+                transportation, multi-brand-fashion, financial service, and FMCG. Leveraging my technical expertise in software 
                 integration, analytics, and customer experience, I thrive in enhancing operational efficiency.
                 </p>
             

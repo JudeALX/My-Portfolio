@@ -4,7 +4,7 @@ import "./Footer.css";
 const Footer = ()=>{
     return(
         <footer>
-            <span>Copyright &copy;2023</span>
+            <span>Copyright &copy;2025</span>
             <div className="social-links">
                 <a href="https://www.facebook.com/EmekaJudeOkonkwo1">
                     <i className="fa-brands fa-facebook"></i>
@@ -15,7 +15,7 @@ const Footer = ()=>{
                      
                 </a>
                 <a href="https://www.linkedin.com/in/emeka-jude-okonkwo-certified-google-digital-marketing-e-commerce-professional/">
-                    <i className="fa-brands fa-Linkdin"></i>
+                    <i className="fa-brands fa-linkdin"></i>
                 </a>
 
                 
