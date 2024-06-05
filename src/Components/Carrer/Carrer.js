@@ -5,7 +5,7 @@ import "./Carrer.css";
 
 const Carrer = () =>{
 
-    const Carrer = [
+    const carrers = [
         {
             title: "AI Augmented Professional Development",
             name: "ALX Career Essentials",
@@ -45,17 +45,17 @@ const Carrer = () =>{
         }
     ]
     return (
-        <section id="Carrer">
-            <div className="Carrer-education">
-                <div className="Carrer" data-aos="fade-right">
-                    <h3>certifications</h3>
+        <section id="carrer">
+            <div className="carrer-education">
+                <div className="carrer" data-aos="fade-right">
+                    <h3>Carrer</h3>
                     <div className="c-b-container">
                         {
-                            Carrer.map((Carrer, index)=>(
+                            carrers.map((carrer, index)=>(
                                 <div className="c-box" key={index}>
-                                    <h4>{Carrer.title}</h4>
-                                    <strong>{Carrer.name}</strong>
-                                    <span>{Carrer.year}</span>
+                                    <h4>{carrer.title}</h4>
+                                    <strong>{carrer.name}</strong>
+                                    <span>{carrer.year}</span>
 
                                 </div>
 
@@ -66,15 +66,15 @@ const Carrer = () =>{
 
 
                 </div>
-                <div className="Carrer edu" data-aos="fade-left">
+                <div className="carrer edu" data-aos="fade-left">
                     <h3>Education</h3>
                     <div className="c-b-container">
                         {
-                            educations.map((Carrer, index)=>(
+                            educations.map((carrer, index)=>(
                                 <div className="c-box" key={index}>
-                                    <h4>{Carrer.title}</h4>
-                                    <strong>{Carrer.name}</strong>
-                                    <span>{Carrer.year}</span>
+                                    <h4>{carrer.title}</h4>
+                                    <strong>{carrer.name}</strong>
+                                    <span>{carrer.year}</span>
 
                                 </div>
 
