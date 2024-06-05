@@ -1,6 +1,6 @@
 import React from "react";
 import "./Carrer.css";
-
+// import "./Carrer"
 
 
 const Carrer = () =>{
