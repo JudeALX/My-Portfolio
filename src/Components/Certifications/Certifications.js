@@ -3,9 +3,9 @@ import "./Carrer.css";
 
 
 
-const Carrer = () =>{
+const Certifications = () =>{
 
-    const carrers = [
+    const certifications = [
         {
             title: "AI Augmented Professional Development",
             name: "ALX Career Essentials",
@@ -45,17 +45,17 @@ const Carrer = () =>{
         }
     ]
     return (
-        <section id="carrer">
-            <div className="carrer-education">
-                <div className="carrer" data-aos="fade-right">
-                    <h3>Carrer</h3>
+        <section id="certifications">
+            <div className="certifications-education">
+                <div className="certifications" data-aos="fade-right">
+                    <h3>certifications</h3>
                     <div className="c-b-container">
                         {
-                            carrers.map((carrer, index)=>(
+                            certifications.map((certifications, index)=>(
                                 <div className="c-box" key={index}>
-                                    <h4>{carrer.title}</h4>
-                                    <strong>{carrer.name}</strong>
-                                    <span>{carrer.year}</span>
+                                    <h4>{certifications.title}</h4>
+                                    <strong>{certifications.name}</strong>
+                                    <span>{certifications.year}</span>
 
                                 </div>
 
@@ -66,15 +66,15 @@ const Carrer = () =>{
 
 
                 </div>
-                <div className="carrer edu" data-aos="fade-left">
+                <div className="certifications edu" data-aos="fade-left">
                     <h3>Education</h3>
                     <div className="c-b-container">
                         {
-                            educations.map((carrer, index)=>(
+                            educations.map((certifications, index)=>(
                                 <div className="c-box" key={index}>
-                                    <h4>{carrer.title}</h4>
-                                    <strong>{carrer.name}</strong>
-                                    <span>{carrer.year}</span>
+                                    <h4>{certifications.title}</h4>
+                                    <strong>{certifications.name}</strong>
+                                    <span>{certifications.year}</span>
 
                                 </div>
 
@@ -97,4 +97,4 @@ const Carrer = () =>{
         </section>
     )
 }
-export default Carrer;
+export default Certifications;
