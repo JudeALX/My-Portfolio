@@ -15,7 +15,7 @@ const Footer = ()=>{
                      
                 </a>
                 <a href="https://www.linkedin.com/in/emeka-jude-okonkwo-certified-google-digital-marketing-e-commerce-professional/">
-                    <i className="fa-brands fa-linkdin"></i>
+                    <i className="fa-brands fa-linkedin"></i>
                 </a>
 
                 
