@@ -8,11 +8,11 @@ const Carrer = () =>{
     const Carrer = [
         {
             title: "AI Augmented Professional Development",
-            name: "ALX Career Essentials",
+            name: "ALX Africa",
             year: "2024"
         },
         {
-            title: "Google Digital & E-commerce Professional Certification",
+            title: "Google Digital & E-commerce Professional",
             name: "Google/Coursera",
             year: "2023"
         },
@@ -48,7 +48,7 @@ const Carrer = () =>{
         <section id="Carrer">
             <div className="Carrer-education">
                 <div className="Carrer" data-aos="fade-right">
-                    <h3>certifications</h3>
+                    <h3>Certifications</h3>
                     <div className="c-b-container">
                         {
                             Carrer.map((Carrer, index)=>(

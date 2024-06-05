@@ -6,11 +6,11 @@ const Laguages = ()=>{
     const data = [
         {
             title: "Languages",
-            contents: ["Node.js", "JavaScript", "Etc"]
+            contents: ["Node.js", "JavaScript", "HTML, CSS", "React", "Python", "Etc"]
         },
         {
             title: "Software",
-            contents: ["Vscode", "Jupyter", "Notepad++"]
+            contents: ["Vscode", "Jupyter", "Notepad++", "Git,GitHub,GitLab", "MySQL", "Trello"]
         }
     ]
     return(

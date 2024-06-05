@@ -8,6 +8,7 @@ import Project1 from "../../assets/images/project1.jpg";
 import Project2 from "../../assets/images/project2.jpg";
 import Project3 from "../../assets/images/project3.jpg";
 import Project4 from "../../assets/images/project4.jpg";
+import Project5 from "../../assets/images/project5.jpg";
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 
@@ -27,19 +28,23 @@ const Projects = () =>{
     const data = [
         {
             src: Project1,
-            url: "https://app.finezcv.com/"
+            url: "https://lushhairafrica.com/home-nigeria/"
         },
         {
             src: Project2,
-            url: "https://mtn-sim-app-git-martins-babalolad-tezzas-projects.vercel.app/"
+            url: "https://bebeautifulhair.com//"
         },
         {
             src: Project3,
-            url: "https://mern-blog-rja7.onrender.com"
+            url: "https://cotedivoire.lushhairafrica.com/"
         },
         {
             src: Project4,
-            url: "https://realestate-app-ymhb.onrender.com"
+            url: "https://ghana.lushhairafrica.com/"
+        },
+        {
+            src: Project5,
+            url: "https://lushhairafrica.com/"
         },
     ]
     return(

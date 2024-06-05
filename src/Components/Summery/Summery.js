@@ -7,11 +7,19 @@ const Summery = ()=>{
         <section id="summery" data-aos="fade-right">
             <div className="summery-heading">
                 <strong>My Skills</strong>
-                <h2>HTML/CSS</h2>
-                <h2>JavaScript</h2>
-                <h2>Responsive Design</h2>
-                <h2>Version Control/Git</h2>
+                <h2>E-commerce Management (WooCommerce, Magento, Shopify)</h2>
+                <h2>Payment gateway integration</h2>
                 <h2>Web Performance Optimization</h2>
+                <h2>SEO & SEM (Keyword research, On-Page & Off-Page SEO, Google Ads & Bing Ads, PPC Campaign, Google Analytics, SEMrush)</h2>
+                <h2>Social media marketing (platform-specific strategies for Facebook, Instagram, Twitter, LinkedIn, etc.)</h2>
+                <h2>Email marketing (MailChimp, Constant Contact, Brevo)</h2>
+                <h2>A/B testing</h2>
+                <h2>Product listings and optimization</h2>
+                <h2>Inventory management</h2>
+                <h2>Data-driven decision-making</h2>
+                <h2>Strategic planning</h2>
+                <h2>Team leadership</h2>
+                <h2>Mentoring and coaching</h2>
                 {/* <h2>Cross-Browser Compatibility</h2>
                 <h2>Testing and Debugging</h2>
                 <h2>SEO Basics</h2>

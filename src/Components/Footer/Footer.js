@@ -4,7 +4,7 @@ import "./Footer.css";
 const Footer = ()=>{
     return(
         <footer>
-            <span>Copyright &copy;2025</span>
+            <span>Copyright &copy;2024</span>
             <div className="social-links">
                 <a href="https://www.facebook.com/EmekaJudeOkonkwo1">
                     <i className="fa-brands fa-facebook"></i>
