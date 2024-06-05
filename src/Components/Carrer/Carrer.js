@@ -1,11 +1,11 @@
 import React from "react";
-import "./Certifications.css";
+import "./Carrer.css";
 
 
 
-const Certifications = () =>{
+const Carrer = () =>{
 
-    const certifications = [
+    const Carrer = [
         {
             title: "AI Augmented Professional Development",
             name: "ALX Career Essentials",
@@ -45,17 +45,17 @@ const Certifications = () =>{
         }
     ]
     return (
-        <section id="certifications">
-            <div className="certifications-education">
-                <div className="certifications" data-aos="fade-right">
+        <section id="Carrer">
+            <div className="Carrer-education">
+                <div className="Carrer" data-aos="fade-right">
                     <h3>certifications</h3>
                     <div className="c-b-container">
                         {
-                            certifications.map((certifications, index)=>(
+                            Carrer.map((Carrer, index)=>(
                                 <div className="c-box" key={index}>
-                                    <h4>{certifications.title}</h4>
-                                    <strong>{certifications.name}</strong>
-                                    <span>{certifications.year}</span>
+                                    <h4>{Carrer.title}</h4>
+                                    <strong>{Carrer.name}</strong>
+                                    <span>{Carrer.year}</span>
 
                                 </div>
 
@@ -66,15 +66,15 @@ const Certifications = () =>{
 
 
                 </div>
-                <div className="certifications edu" data-aos="fade-left">
+                <div className="Carrer edu" data-aos="fade-left">
                     <h3>Education</h3>
                     <div className="c-b-container">
                         {
-                            educations.map((certifications, index)=>(
+                            educations.map((Carrer, index)=>(
                                 <div className="c-box" key={index}>
-                                    <h4>{certifications.title}</h4>
-                                    <strong>{certifications.name}</strong>
-                                    <span>{certifications.year}</span>
+                                    <h4>{Carrer.title}</h4>
+                                    <strong>{Carrer.name}</strong>
+                                    <span>{Carrer.year}</span>
 
                                 </div>
 
@@ -97,4 +97,4 @@ const Certifications = () =>{
         </section>
     )
 }
-export default Certifications;
+export default Carrer;

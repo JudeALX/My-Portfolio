@@ -1,11 +1,11 @@
-.certifications-education{
+.Carrer-education{
     width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
     position: relative;
 }
-/* .certifications-education::before{
+/* .Carrer-education::before{
     content: "";
     position: absolute;
     top: 50%;
@@ -15,7 +15,7 @@
     width: 1px;
     background: var(--grayColor);
 } */
-.certifications h3{
+.Carrer h3{
     font-size: 3.1rem;
     letter-spacing: 1px;
     margin-bottom: 10px;
@@ -47,14 +47,14 @@
     margin-top: 50px;
 }
 @media (max-width: 600px) {
-    .certifications-education{
+    .Carrer-education{
         flex-wrap: wrap;
         justify-content: center;
     }
-    .certifications-education::before{
+    .Carrer-education::before{
         display: none;
     }
-    .certifications{
+    .Carrer{
         width:100%;
         display: flex;
         flex-direction: column;
