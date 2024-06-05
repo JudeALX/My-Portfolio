@@ -8,6 +8,7 @@ const Summery = ()=>{
             <div className="summery-heading">
                 <strong>My Skills</strong>
                 <h2>E-commerce Management (WooCommerce, Magento, Shopify)</h2>
+                <h2>Artificial Intelligence</h2>
                 <h2>Payment gateway integration</h2>
                 <h2>Web Performance Optimization</h2>
                 <h2>SEO & SEM (Keyword research, On-Page & Off-Page SEO, Google Ads & Bing Ads, PPC Campaign, Google Analytics, SEMrush)</h2>
@@ -29,10 +30,8 @@ const Summery = ()=>{
 
             </div>
             <div className="summery-details" data-aos="fade-left">
-                <p>Proficiency in creating structured, semantic HTML and styling it using CSS for responsive and visually appealing layouts.</p>
-                <p>Strong understanding of JavaScript and its libraries/frameworks (e.g., React.js, Vue.js) to create dynamic and interactive user interfaces.</p>
-                <p>Ability to design and develop websites and applications that function smoothly across various devices and screen sizes.</p>
-                <p>Skill in creating intuitive and visually appealing user interfaces, considering user experience and usability principles.</p>
+                <p>In summary, I bring a multifaceted skill sets in digital marketing, e-commerce management, and software engineering.</p>
+                <p>These multifaceted skill sets makes me a valuable asset in today’s dynamic digital landscape.</p>
                 {/* <p>Familiarity with version control systems like Git to collaborate effectively with other team members and manage codebase.</p>
                 <p>Knowledge of techniques to optimize website speed and performance, including minification, lazy loading, and caching.</p>
                 <p>Strong communication skills and ability to work collaboratively with designers, developers, and other stakeholders.</p>

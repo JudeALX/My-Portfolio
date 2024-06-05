@@ -9,21 +9,14 @@ const Home = ()=> {
         <div className="home-text" data-aos="fade-down">
             <strong>Hello, I'm</strong>
             <h1>Emeka Okonkwo</h1>
-            <p> A seasoned software engineer with extensive expertise in e-commerce, digital marketing, and 
-                finance. With a diverse skill set and a hands-on approach, I have successfully developed and  
-                deployed various e-commerce websites and platforms. My technical proficiency in multiple 
-                programming languages, frameworks, and tools ensures the delivery of scalable, secure, and user-friendly
-                digital solutions. 
-                As an e-commerce expert, I have led numerous projects that enhance online shopping experiences
-                and optimize business operations. I specialize in strategies that drive traffic, increase conversion
-                rates, and boost customer satisfaction. Additionally, my deep understanding of digital marketing
-                allows me to create comprehensive campaigns using SEO, SEM, content marketing, social media,
-                email campaigns, and data analytics to maximize ROI.
-                My strong foundation in finance brings a strategic and analytical perspective to my work, ensuring
-                initiatives are financially viable and sustainable. I excel in budgeting, financial planning, and 
-                performance analysis, making informed decisions that drive profitable growth. This unique blend of 
-                skills positions me as a versatile professional capable of leading innovative projects from conception 
-                to completion, creating exceptional digital experiences that drive business success.    
+            <p> A seasoned software engineer with extensive expertise in e-commerce, digital marketing, and  
+                Ai tools. I have developed and deployed scalable, secure, and user-friendly e-commerce platforms,   
+                enhancing online shopping experiences and optimizing business operations. My proficiency in SEO, 
+                SEM, content marketing, social media, email campaigns, and data analytics drives traffic, increases
+                conversion rates, and boosts customer satisfaction. Additionally, my proficiency in AI tools allows me 
+                to integrate artificial intelligence into daily business operations, leveraging automation, personalization, 
+                and data-driven insights to enhance efficiency and decision-making processes. This unique blend of skills enables 
+                me to lead innovative projects from conception to completion, creating exceptional digital experiences that drive business success.
             </p>
             <a href="#summery" className="btn-link">Scroll Down</a>
 
