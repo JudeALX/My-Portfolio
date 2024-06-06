@@ -20,11 +20,14 @@
   box-sizing: border-box;
 }
 
+
 body{
   width: 100%;
   background: var(--bgColor);
   position: relative;
   color: var(--whiteColor);
+  max-width: 100%;
+  overflow-x: hidden;
 }
 .container{
   width: 100%;
