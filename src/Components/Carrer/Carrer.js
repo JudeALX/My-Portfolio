@@ -12,9 +12,9 @@ const Carrer = () =>{
             year: "2024"
         },
         {
-            title: "Google Digital & E-commerce Professional",
-            name: "Google/Coursera",
-            year: "2023"
+            title: "Brand Management",
+            name: "University of London/Coursera",
+            year: "2024"
         },
         {
             title: "Fullstack Software Engineering",
@@ -22,10 +22,10 @@ const Carrer = () =>{
             year: "2023"
         },
         {
-            title: "Brand Management",
-            name: "Coursera",
-            year: "2024"
-        }
+            title: "Google Digital & E-commerce Professional",
+            name: "Google/Coursera",
+            year: "2023"
+        },
     ]
     const educations = [
         {
