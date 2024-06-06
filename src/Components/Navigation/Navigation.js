@@ -4,7 +4,7 @@ import "./Navigation.css";
 const Navigation = ()=>{
     return(
         <nav className="navigation">
-            <a href="#!" className="logo">Welcome to my portfolio website*</a>
+            <a href="#!" className="logo">Welcome*</a>
         </nav>
     );
 }
