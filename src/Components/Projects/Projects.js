@@ -9,6 +9,8 @@ import Project2 from "../../assets/images/project2.jpg";
 import Project3 from "../../assets/images/project3.jpg";
 import Project4 from "../../assets/images/project4.jpg";
 import Project5 from "../../assets/images/project5.jpg";
+import Project6 from "../../assets/images/project6.jpg";
+import Project7 from "../../assets/images/project7.jpg";
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 
@@ -45,6 +47,14 @@ const Projects = () =>{
         {
             src: Project5,
             url: "https://lushhairafrica.com/"
+        },
+        {
+            src: Project6,
+            url: "https://mgtravelandsafaris.com/"
+        },
+        {
+            src: Project7,
+            url: "https://tezzasolutions.com/"
         },
     ]
     return(
