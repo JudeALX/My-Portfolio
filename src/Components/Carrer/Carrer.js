@@ -12,7 +12,7 @@ const Carrer = () =>{
             year: "2024"
         },
         {
-            title: "Brand Management",
+            title: "Brand Management: Aligning Business, Brand and Behaviour",
             name: "University of London/Coursera",
             year: "2024"
         },
@@ -35,12 +35,12 @@ const Carrer = () =>{
         },
         {
             title: "Godfrey Okoye Univeristy",
-            name: "M.Sc. Banking and Finance",
+            name: "M.Sc. Banking and Finance (Distinction)",
             year: "2019"
         },
         {
             title: "Godfrey Okoye University",
-            name: "B.Sc. Banking and Finance",
+            name: "B.Sc. Banking and Finance (First Class Honours)",
             year: "2014"
         }
     ]
@@ -89,7 +89,7 @@ const Carrer = () =>{
             </div>
             <div className="btn-c">
                     <a href="https://drive.google.com/file/d/1b8AoerokBaJUCttnL4EywLZXTMCWqXoM/view" download className="btn-link">
-                        Get CV <i className="fa-solid fa-download"></i>
+                        Click to view my CV <i className="fa-solid fa-download"></i>
                     </a>
 
                 </div>

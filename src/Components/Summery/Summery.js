@@ -8,7 +8,7 @@ const Summery = ()=>{
             <div className="summery-heading">
                 <strong>My Skills</strong>
                 <h2>E-commerce Management (WooCommerce, Magento, Shopify)</h2>
-                <h2>Artificial Intelligence</h2>
+                <h2>Artificial Intelligence (AI)</h2>
                 <h2>Payment gateway integration</h2>
                 <h2>Web Performance Optimization</h2>
                 <h2>SEO & SEM (Keyword research, On-Page & Off-Page SEO, Google Ads & Bing Ads, PPC Campaign, Google Analytics, SEMrush)</h2>
@@ -26,7 +26,7 @@ const Summery = ()=>{
                 <h2>SEO Basics</h2>
                 <h2>Communication</h2>
                 <h2>Collaboration</h2> */}
-                <a href="https://drive.google.com/file/d/1b8AoerokBaJUCttnL4EywLZXTMCWqXoM/view" download className="btn-link"> Get CV <i className="fa-solid fa-download"></i></a>
+                <a href="https://drive.google.com/file/d/1b8AoerokBaJUCttnL4EywLZXTMCWqXoM/view" download className="btn-link"> Click to view my CV <i className="fa-solid fa-download"></i></a>
 
             </div>
             <div className="summery-details" data-aos="fade-left">

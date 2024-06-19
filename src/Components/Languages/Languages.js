@@ -10,7 +10,7 @@ const Laguages = ()=>{
         },
         {
             title: "Software",
-            contents: ["Vscode", "Jupyter", "Notepad++", "Git,GitHub,GitLab", "MySQL", "Trello"]
+            contents: ["Vscode", "Jupyter", "Notepad++", "GitHub", "MySQL", "Trello"]
         }
     ]
     return(

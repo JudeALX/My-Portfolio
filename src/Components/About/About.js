@@ -10,7 +10,7 @@ const About = ()=>{
                 <strong> About me</strong>
                 <h3> I am passionate about using digital solutions to solve business problems </h3>
                 <a href="tel:+2347035087938" className="btn-link">
-                    +2348115397711 <i className="fa-solid fa-phone-flip"></i>
+                    +2347035087938 <i className="fa-solid fa-phone-flip"></i>
                 </a>
             </div> 
             <div className="about-details" data-aos="flip-right"> 

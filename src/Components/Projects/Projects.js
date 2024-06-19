@@ -115,7 +115,7 @@ const Projects = () =>{
 
             <div className="github-link">
                 <a href="https://github.com/JudeALX" className="btn-link">
-                My Github <i className="fa-brands fa-github"></i>
+                Check out my Github <i className="fa-brands fa-github"></i>
                 </a>
 
             </div>

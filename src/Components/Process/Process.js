@@ -7,8 +7,8 @@ const Process = () =>{
     const data = [
         {
             id: "01",
-            title: "Cross-Platform Mobile App Development (Android and iOS)",
-            contents: ["Build versatile mobile applications compatible with both Android and iOS platforms, reaching a wider audience and enhancing your brand's mobile presence."] 
+            title: "Digital Marketing Services",
+            contents: ["I have managed digital marketing activities for clients across various industries, including logistics, fintech, fashion, and restaurants. My efforts have consistently resulted in increased traffic, leads, and conversion rates."] 
         },
         {
             id: "02",
