@@ -10,11 +10,10 @@ const Home = ()=> {
             <strong>Hello, I'm</strong>
             <h1>Emeka Okonkwo</h1>
             <p> A seasoned software engineer with extensive expertise in e-commerce, digital marketing, and  
-                Ai tools. I have developed and deployed scalable, secure, and user-friendly e-commerce platforms,   
-                enhancing online shopping experiences and optimizing business operations. My proficiency in SEO, 
-                SEM, content marketing, social media, email campaigns, and data analytics drives traffic, increases
-                conversion rates, and boosts customer satisfaction. Additionally, my proficiency in AI tools allows me 
-                to integrate artificial intelligence into daily business operations, leveraging automation, personalization, 
+                the use of AI tools. I have pioneered, developed and deployed scalable, secure, and user-friendly websites and e-commerce stores,   
+                enhancing online shopping experiences and optimizing business operations. My expertise in digital marketing and data analytics helps me to 
+                drives traffic, boost conversion rates, and enhances customer satisfaction. Additionally, my proficiency in the use of AI tools allows me 
+                to integrate artificial intelligence tools into daily business operations, leveraging automation, personalization, 
                 and data-driven insights to enhance efficiency and decision-making processes. This unique blend of skills enables 
                 me to lead innovative projects from conception to completion, creating exceptional digital experiences that drive business success.
             </p>

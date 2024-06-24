@@ -11,6 +11,7 @@ import Project4 from "../../assets/images/project4.jpg";
 import Project5 from "../../assets/images/project5.jpg";
 import Project6 from "../../assets/images/project6.jpg";
 import Project7 from "../../assets/images/project7.jpg";
+import Project8 from "../../assets/images/project8.jpg";
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 
@@ -55,6 +56,10 @@ const Projects = () =>{
         {
             src: Project7,
             url: "https://tezzasolutions.com/"
+        },
+        {
+            src: Project8,
+            url: "https://emeka-rho.vercel.app/"
         },
     ]
     return(
