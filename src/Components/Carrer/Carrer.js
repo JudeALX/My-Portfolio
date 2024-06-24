@@ -22,7 +22,7 @@ const Carrer = () =>{
             year: "2023"
         },
         {
-            title: "Google Digital & E-commerce Professional",
+            title: "Google Digital Marketing & E-commerce Professional",
             name: "Google/Coursera",
             year: "2023"
         },
