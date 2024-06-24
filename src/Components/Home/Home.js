@@ -8,7 +8,7 @@ const Home = ()=> {
        <section id="home">
         <div className="home-text" data-aos="fade-down">
             <strong>Hello, I'm</strong>
-            <h1>Emeka Okonkwo</h1>
+            <h1>Emeka Jude Okonkwo</h1>
             <p> A seasoned software engineer with extensive expertise in e-commerce, digital marketing, and  
                 the use of AI tools. I have pioneered, developed and deployed scalable, secure, and user-friendly websites and e-commerce stores,   
                 enhancing online shopping experiences and optimizing business operations. My expertise in digital marketing and data analytics helps me to 
