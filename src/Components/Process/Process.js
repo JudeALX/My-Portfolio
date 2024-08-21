@@ -13,7 +13,7 @@ const Process = () =>{
         {
             id: "02",
             title: "E-commerce Website Development and Integration",
-            contents: ["Develop feature-rich e-commerce platforms that enable secure online transactions, product showcasing, and seamless integration with payment gateways for a smooth shopping experience."] 
+            contents: ["Design robust e-commerce platforms that facilitate secure online transactions, effective product displays, and seamless payment gateway integration, ensuring a smooth shopping experience."] 
         },
         {
             id: "03",

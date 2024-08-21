@@ -30,7 +30,7 @@ const Carrer = () =>{
     const educations = [
         {
             title: "University of Nigeria",
-            name: "M.Sc. Banking anf Finance",
+            name: "M.Sc. Banking and Finance",
             year: "2023"
         },
         {
