@@ -27,7 +27,7 @@ const Summery = ()=>{
                 <h2>SEO Basics</h2>
                 <h2>Communication</h2>
                 <h2>Collaboration</h2> */}
-                <a href="https://drive.google.com/file/d/1b8AoerokBaJUCttnL4EywLZXTMCWqXoM/view" download className="btn-link"> Click to view my CV <i className="fa-solid fa-download"></i></a>
+                <a href="https://drive.google.com/file/d/1FbW_xLzFsfQQh-Bjt-Rbv5Z3rUwBE2qR/view?usp=sharing" download className="btn-link"> Click to view my CV <i className="fa-solid fa-download"></i></a>
 
             </div>
             <div className="summery-details" data-aos="fade-left">
